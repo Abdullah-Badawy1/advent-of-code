@@ -1,0 +1,8 @@
+<svg width='500' height='500' xmlns='http://www.w3.org/2000/svg'>
+<g>
+<g>
+<circle cx='100' cy='100' r='30' fill='red' stroke='black' stroke-width='2' />
+<rect x='70' y='130' width='60' height='100' fill='grey' stroke='none' stroke-width='0' />
+</g>
+</g>
+</svg>
