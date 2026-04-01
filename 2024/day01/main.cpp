@@ -16,7 +16,8 @@ using namespace std;
     while (file >> x) {
             if (w) {
                 arr1[i] = x;
-            } else {
+
+             } else {
                 arr2[i] = x;
                 ++i;
             }
